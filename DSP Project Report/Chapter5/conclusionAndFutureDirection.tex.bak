@@ -1,0 +1,20 @@
+\chapter{Conclusion and Future Work}
+\label{chap5}
+In the previous chapter, we have shown all the simulation and results of our proposed project. From introduction, Literature Review, Proposed Methodology, Result and Simulations. In this chapter, we will conclude our project and will 
+\section{Conclusion}
+This work describes the speech processing using MATLAB. We have:
+\begin{enumerate}
+\item Describe signals mathematically and understand
+how to perform mathematical operations on signals.
+%
+\item This project provides knowledge of Digital filter
+%
+\item discuss word length issues ,multi rate signal processing and application
+%
+\end{enumerate}
+We recorded the speech signal and plotted its frequency and time domain spectrum. Then
+decimated the signal by factor of 2 four times. We conclude the result by saying that
+sampling frequency or the frequency domain expands whereas time domain is
+compressed when we decimate the speech signal.
+
+\section{Future Work}

@@ -1,0 +1,29 @@
+\begin{thebibliography}{1}
+
+\bibitem{mandalia2011speaker}
+D.~Mandalia, P.~Gareta, and R.~Sharma, ``Speaker recognition using mfcc and
+  vector quantization model,'' {\em Electronics, vol. Program, C, no. May},
+  p.~75, 2011.
+
+\bibitem{saxena2013speech}
+A.~Saxena, A.~K. Sinha, S.~Chakrawarti, and S.~Charu, ``Speech recognition
+  using matlab,'' {\em International Journal of Advances in Computer Science
+  and Cloud Computing}, vol.~1, no.~2, pp.~26--30, 2013.
+
+\bibitem{lawrence2018crossing}
+B.~N. Lawrence, M.~Rezny, R.~Budich, P.~Bauer, J.~Behrens, M.~Carter,
+  W.~Deconinck, R.~Ford, C.~Maynard, S.~Mullerworth, {\em et~al.}, ``Crossing
+  the chasm: how to develop weather and climate models for next generation
+  computers?,'' {\em Geoscientific Model Development}, vol.~11, no.~5,
+  pp.~1799--1821, 2018.
+
+\bibitem{kuckuk2018whole}
+S.~Kuckuk and H.~K{\"o}stler, ``Whole program generation of massively parallel
+  shallow water equation solvers,'' in {\em 2018 IEEE International Conference
+  on Cluster Computing (CLUSTER)}, pp.~78--87, IEEE, 2018.
+
+\bibitem{schulthess2015programming}
+T.~C. Schulthess, ``Programming revisited,'' {\em Nature Physics}, vol.~11,
+  no.~5, pp.~369--373, 2015.
+
+\end{thebibliography}
