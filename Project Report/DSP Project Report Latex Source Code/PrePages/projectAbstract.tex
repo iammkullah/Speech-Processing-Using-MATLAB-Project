@@ -1,0 +1,28 @@
+
+\begin{abstract}
+Speech processing using MATLAB gives the reader a comprehensive overview of contemporary speech and audio processing techniques with an emphasis on practical implementations and illustrations using MATLAB code.
+Speech process refers to the analysis of speech signals and their processing to obtain useful information. Speech processing can also be referred as digital signal processing, as the speech signals are digitized for processing.
+Core concepts are first covered in an introduction to the physics of audio and vibration together with their representations using complex numbers,Z transforms, and frequency analysis transforms such as the FFT.\\
+
+Speech processing involves identifying the isolated word from the corresponding
+speech signal. From the speech signal that corresponds to the particular word, one or
+more features such as linear predictive coefficients (LPC), Mel-frequency cepstral
+coefficients (MFCC) (refer Chap.3) are collected and are arranged as the elements to
+form the vector. This is known as the feature extraction, and the corresponding vector
+is known as feature vector. Every element in the vector is known as the attributes.
+Suppose we need to design the digit classifier that classifies the word zero to nine
+(digits) from the corresponding speech signal. About large number (several hundreds)
+of feature vectors corresponding to the individual digits are collected from the various
+speakers to design the speaker-independent classifier. Fifty percent of the collected
+data are used for designing the classifier.\\
+
+Speech processing is a computerized speech text process in voice is usually recorded with acoustic microphones by capturing air pressure changes. This kind of air transmitted voice signals is prone to two kinds of problems related to voice robustness and applicability. The former means mixing of speech signals and ambient noise usually deteriorate automatic voice recognition system performance. The latter means speech could be overheard easily on air transmission channel and this often results in privacy loss or annoyance to other people.\\
+
+The following module describes the process behind implementing signal processing techniques in MATLAB. The algorithm utilizes the Discrete Fourier Transform in order to compare the frequency spectra of two voices. Further more, we are comparing and analysing original signal with Fourier Transform to find highest frequency of signal, and decimating re-sampling data at a lower rate after low pass filtering.\\
+
+
+
+\vspace{0.89mm}
+%\pagenumbering{roman}% added the roman page number in the starting pages
+\thispagestyle{empty}% to remove the page number
+\end{abstract}
