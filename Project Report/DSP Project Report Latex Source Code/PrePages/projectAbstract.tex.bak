@@ -1,9 +1,0 @@
-\begin*{abstract}
-Speech Processing using MATLAB gives the reader a comprehensive overview of contemporary speech and audio processing techniques with an emphasis on practical implementations and illustrations using MATLAB code.
-Speech process refers to the analysis of speech signals and their processing to obtain useful information. Speech processing can also be referred as digital signal processing, as the speech signals are digitized for processing.
-Core concepts are first covered in an introduction to the physics of audio and vibration together with their representations using complex numbers,Z transforms, and frequency analysis transforms such as the FFT.
-
-\vspace{0.89mm}
-%\pagenumbering{roman}% added the roman page number in the starting pages
-\thispagestyle{empty}% to remove the page number
-\end{abstract}
